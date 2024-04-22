@@ -22,3 +22,14 @@ Porém, evite realizar commits muito pequenos ou muito grandes, pois isso pode t
 
 Lembre-se de nunca realizar um commit de um código que você sabe que contém bugs. 
 O ideal é que o commit contenha somente código funcional.
+
+
+O Git oferece a possibilidade de adicionar mais de um autor a um commit. 
+Para isso, após escrever a mensagem do commit, pulamos duas linhas e usamos a palavra-chave 'Co-authored-by:',
+seguido do nome e e-mail associado ao GitHub (entre < >) de cada pessoa colaboradora.
+
+$ git commit -m "Adicionar nova funcionalidade.
+>
+>
+Co-authored-by: NOME <nome@email.com>
+Co-authored-by: OUTRO-NOME <outro@email.com>"
