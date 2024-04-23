@@ -1,16 +1,33 @@
 ## Comandos
 
 - **git init**: Inicializa o repositório local
+
 - **git clone "url"**: Clona um repositório remoto para local
+
 - **git config --global user.name | user.email**: Configura as informações do usuário
+
 - **git status**: Verifica os arquivos modificados
+
 - **git add ./path | filename**: Adicionas as alterações para serem commitadas
+
 - **git restore ./path | filename**: Remove as alterações do *git add*
+
 - **git commit -m "mensagem"**: Executa um commit com as informações adicionadas + breve descrição
+
+
 - **git log**: Log de commits efetuados no projeto
+
 - **git push "remote_repository" "branch"**: Envia as informações da branch do repositório local para o remoto
+
 - **git pull "remote_repository" "branch"**: Recebe as informações da branch do repositório remoto para o local
 
+- **git restore "commit_hash"**: Restaura o a branch local para seu estado em dado commit (alteração é apenas local)
+
+- **git reset --hard "commit_hash"**: Exclui um commit desejado do log. O hash informado **DEVE** ser anterior ao que se deseja excluir. É ideal que seja executado apenas quando o commit não recebeu pull
+
+- **git commit --amend**: Altera o último commit
+
+- **git commit --amend -m "mensage"**: Altera a mensagem do último commit
 
 ## Commits
 As mensagens dos commits devem ser simples e objetivas. 
