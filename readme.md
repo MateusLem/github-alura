@@ -25,13 +25,13 @@
 
 ## Artigo Readme
 
-<a href="https://www.alura.com.br/artigos/escrever-bom-readme?_gl=1*13y3hrp*_ga*MTc3MjU3NjE0Ny4xNzEzNjE1NzUz*_ga_1EPWSW3PCS*MTcxMzg5NTM1NS43LjEuMTcxMzg5NTc2OC4wLjAuMA..*_fplc*UjclMkZwSHc1TFltV1VBdDhrbldFYlZrWjJxZ1JzRW0lMkJ1WiUyQlpwT3NBcExJRkpMMlZFdlRFSUNpeWFqak1Jc2YwV0dSU21aWlRXMm91TlRCVTJ2T3lseFkxSFZ0SFNtR09WMHk5M3RKUWFsZDclMkJXVmozaVJVcUR6NkF3YmdhaGclM0QlM0Q" target="_blank" style="text-decoration:none; color:#9f35a1">Artigo</a>
+<a href="https://www.alura.com.br/artigos/escrever-bom-readme?_gl=1*13y3hrp*_ga*MTc3MjU3NjE0Ny4xNzEzNjE1NzUz*_ga_1EPWSW3PCS*MTcxMzg5NTM1NS43LjEuMTcxMzg5NTc2OC4wLjAuMA..*_fplc*UjclMkZwSHc1TFltV1VBdDhrbldFYlZrWjJxZ1JzRW0lMkJ1WiUyQlpwT3NBcExJRkpMMlZFdlRFSUNpeWFqak1Jc2YwV0dSU21aWlRXMm91TlRCVTJ2T3lseFkxSFZ0SFNtR09WMHk5M3RKUWFsZDclMkJXVmozaVJVcUR6NkF3YmdhaGclM0QlM0Q" target="_blank">Artigo</a>
 
 
 # Time
 
 
-<a href="https://github.com/MateusLem" target="_blank" style="text-decoration:none; color:white">
+<a href="https://github.com/MateusLem" target="_blank">
 <img loading="lazy" src="https://avatars.githubusercontent.com/MateusLem" width=120>
-<p style="font-size:min(2vh, 36px); color:white">Mateus da Costa Leme</p>
+<p style="font-size:min(2vh, 36px);">Mateus da Costa Leme</p>
 </a>
