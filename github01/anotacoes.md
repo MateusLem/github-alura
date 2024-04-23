@@ -1,35 +1,36 @@
 ## Comandos
 
-- **git init**: Inicializa o repositório local
+- ```git init``` - Inicializa o repositório local
 
-- **git clone "url"**: Clona um repositório remoto para local
+- ```git clone <url>``` - Clona um repositório remoto para local
 
-- **git config --global user.name | user.email**: Configura as informações do usuário
+- ```git config --global <user.name | user.email>``` - Configura as informações do usuário
 
-- **git status**: Verifica os arquivos modificados
+- ```git status``` - Verifica os arquivos modificados
 
-- **git add ./path | filename**: Adicionas as alterações para serem commitadas
+- ```git add <./path | filename>``` - Adicionas as alterações para serem commitadas
 
-- **git restore ./path | filename**: Remove as alterações do *git add*
+- ```git restore <./path | filename>``` - Remove as alterações do *git add*
 
-- **git commit -m "mensagem"**: Executa um commit com as informações adicionadas + breve descrição
+- ```git commit -m <mensagem>``` - Executa um commit com as informações adicionadas + breve descrição
 
-- **git log**: Log de commits efetuados no projeto
+- ```git log``` - Log de commits efetuados no projeto
 
-- **git push "remote_repository" "branch"**: Envia as informações da branch do repositório local para o remoto
+- ```git push <remote_repository> <branch>``` - Envia as informações da branch do repositório local para o remoto
 
-- **git pull "remote_repository" "branch"**: Recebe as informações da branch do repositório remoto para o local
+- ```git pull <remote_repository> <branch>``` - Recebe as informações da branch do repositório remoto para o local
 
-- **git restore "commit_hash"**: Restaura o a branch local para seu estado em dado commit (alteração é apenas local)
+- ```git restore <commit_hash>``` - Restaura o a branch local para seu estado em dado commit (alteração é apenas local)
 
-- **git reset --hard "commit_hash"**: Exclui um commit desejado do log. O hash informado **DEVE** ser anterior ao que se deseja excluir. É ideal que seja executado apenas quando o commit não recebeu pull
+- ```git reset --hard <commit_hash>``` - Exclui um commit desejado do log. O hash informado **DEVE** ser anterior ao que se deseja excluir. É ideal que seja executado apenas quando o commit não recebeu pull
 
-- **git commit --amend --no-edit**: Altera o último commit sem a necessidade de alterar a mensagem
+- ```git commit --amend --no-edit``` - Altera o último commit sem a necessidade de alterar a mensagem
 
-- **git commit --amend -m "mensage"**: Altera a mensagem do último commit
+- ```git commit --amend -m <mensagem>``` - Altera a mensagem do último commit
 
 
 ## Commits
+
 As mensagens dos commits devem ser simples e objetivas. 
 
 - Mantenha a mensagem curta e concisa: 
@@ -59,7 +60,13 @@ O ideal é que o commit contenha somente código funcional.
 O Git oferece a possibilidade de adicionar mais de um autor a um commit. 
 Para isso, após escrever a mensagem do commit, pulamos duas linhas e usamos a palavra-chave *Co-authored-by:*,
 seguido do nome e e-mail associado ao GitHub de cada pessoa colaboradora.
-
+```
 $ git commit -m "Adicionar nova funcionalidade.<br><br><br>
 Co-authored-by: USER1 <user1@email.com><br>
 Co-authored-by: USER2 <user2@email.com>"
+```
+
+
+## Artigos Readme
+
+[Artigo](https://www.alura.com.br/artigos/escrever-bom-readme?_gl=1*13y3hrp*_ga*MTc3MjU3NjE0Ny4xNzEzNjE1NzUz*_ga_1EPWSW3PCS*MTcxMzg5NTM1NS43LjEuMTcxMzg5NTc2OC4wLjAuMA..*_fplc*UjclMkZwSHc1TFltV1VBdDhrbldFYlZrWjJxZ1JzRW0lMkJ1WiUyQlpwT3NBcExJRkpMMlZFdlRFSUNpeWFqak1Jc2YwV0dSU21aWlRXMm91TlRCVTJ2T3lseFkxSFZ0SFNtR09WMHk5M3RKUWFsZDclMkJXVmozaVJVcUR6NkF3YmdhaGclM0QlM0Q)
