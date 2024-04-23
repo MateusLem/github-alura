@@ -14,7 +14,6 @@
 
 - **git commit -m "mensagem"**: Executa um commit com as informações adicionadas + breve descrição
 
-
 - **git log**: Log de commits efetuados no projeto
 
 - **git push "remote_repository" "branch"**: Envia as informações da branch do repositório local para o remoto
@@ -25,7 +24,7 @@
 
 - **git reset --hard "commit_hash"**: Exclui um commit desejado do log. O hash informado **DEVE** ser anterior ao que se deseja excluir. É ideal que seja executado apenas quando o commit não recebeu pull
 
-- **git commit --amend**: Altera o último commit
+- **git commit --amend --no-edit**: Altera o último commit sem a necessidade de alterar a mensagem
 
 - **git commit --amend -m "mensage"**: Altera a mensagem do último commit
 
