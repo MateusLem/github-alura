@@ -23,13 +23,14 @@
   
 </div>
 
-## Artigo Readme
+## Artigos
 
-<a href="https://www.alura.com.br/artigos/escrever-bom-readme?_gl=1*13y3hrp*_ga*MTc3MjU3NjE0Ny4xNzEzNjE1NzUz*_ga_1EPWSW3PCS*MTcxMzg5NTM1NS43LjEuMTcxMzg5NTc2OC4wLjAuMA..*_fplc*UjclMkZwSHc1TFltV1VBdDhrbldFYlZrWjJxZ1JzRW0lMkJ1WiUyQlpwT3NBcExJRkpMMlZFdlRFSUNpeWFqak1Jc2YwV0dSU21aWlRXMm91TlRCVTJ2T3lseFkxSFZ0SFNtR09WMHk5M3RKUWFsZDclMkJXVmozaVJVcUR6NkF3YmdhaGclM0QlM0Q" target="_blank">Artigo</a>
+[Readme](https://www.alura.com.br/artigos/escrever-bom-readme?_gl=1*13y3hrp*_ga*MTc3MjU3NjE0Ny4xNzEzNjE1NzUz*_ga_1EPWSW3PCS*MTcxMzg5NTM1NS43LjEuMTcxMzg5NTc2OC4wLjAuMA..*_fplc*UjclMkZwSHc1TFltV1VBdDhrbldFYlZrWjJxZ1JzRW0lMkJ1WiUyQlpwT3NBcExJRkpMMlZFdlRFSUNpeWFqak1Jc2YwV0dSU21aWlRXMm91TlRCVTJ2T3lseFkxSFZ0SFNtR09WMHk5M3RKUWFsZDclMkJXVmozaVJVcUR6NkF3YmdhaGclM0QlM0Q)
+
+[gitignore.io](https://www.toptal.com/developers/gitignore)
 
 
 # Time
-
 
 <a href="https://github.com/MateusLem" target="_blank">
 <img loading="lazy" src="https://avatars.githubusercontent.com/MateusLem" width=120>

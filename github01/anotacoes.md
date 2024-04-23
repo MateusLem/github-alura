@@ -67,6 +67,14 @@ Co-authored-by: USER2 <user2@email.com>"
 ```
 
 
-## Artigos Readme
+## Gist
 
-[Artigo](https://www.alura.com.br/artigos/escrever-bom-readme?_gl=1*13y3hrp*_ga*MTc3MjU3NjE0Ny4xNzEzNjE1NzUz*_ga_1EPWSW3PCS*MTcxMzg5NTM1NS43LjEuMTcxMzg5NTc2OC4wLjAuMA..*_fplc*UjclMkZwSHc1TFltV1VBdDhrbldFYlZrWjJxZ1JzRW0lMkJ1WiUyQlpwT3NBcExJRkpMMlZFdlRFSUNpeWFqak1Jc2YwV0dSU21aWlRXMm91TlRCVTJ2T3lseFkxSFZ0SFNtR09WMHk5M3RKUWFsZDclMkJXVmozaVJVcUR6NkF3YmdhaGclM0QlM0Q)
+Permite compartilhar trechos de código através de urls
+
+- No repositório no Github, aperte no botão '+' e selecione a opção 'New Gist'
+
+- Informe a **descrição** do Gist, o **nome** do arquivo e insira o **código** a ser compartilhado
+
+- É possível adicionar mais arquivos ao clicar no botão 'Add file' no canto inferior esquerdo
+
+- Ao concluir, clique no botão no canto inferior direito da tela 'Create _ Gist'. **Nota**: É possível criar tanto um gist público quanto um privado. **Atenção** durante a criação
