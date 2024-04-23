@@ -28,6 +28,7 @@
 
 - **git commit --amend -m "mensage"**: Altera a mensagem do último commit
 
+
 ## Commits
 As mensagens dos commits devem ser simples e objetivas. 
 
