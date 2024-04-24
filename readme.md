@@ -8,16 +8,16 @@
 
 <div style="display:flex;"
 
-  <a href="https://www.google.com/search?client=opera-gx&q=html5&sourceid=opera&ie=UTF-8&oe=UTF-8" target="_blank" style="margin-right:10px">
+  <a href="https://www.google.com/search?q=html5" target="_blank" style="margin-right:10px">
     <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&labelColor=orange&logoColor=white&color=8c3b0d">
   </a>
   
-  <a href="https://www.google.com/search?client=opera-gx&q=css+3&sourceid=opera&ie=UTF-8&oe=UTF-8" target="_blank" style="margin-right:10px">
+  <a href="https://www.google.com/search?q=css+3" target="_blank" style="margin-right:10px">
     <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&labelColor=blue&color=3b509c">
   </a>
   
 
-  <a href="https://www.google.com/search?client=opera-gx&q=javascript&sourceid=opera&ie=UTF-8&oe=UTF-8" target="_blank" style="margin-right:10px">
+  <a href="https://www.google.com/search?q=javascript" target="_blank" style="margin-right:10px">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=dbbd25">
   </a>
   
