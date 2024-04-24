@@ -6,7 +6,7 @@
 
 ## Tecnologias
 
-<div style="display:flex;"
+<div style="display:flex;flex-direction:row"
 
   <a href="https://www.google.com/search?q=html5" target="_blank" style="margin-right:10px"><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&labelColor=orange&logoColor=white&color=8c3b0d"></a>
   
