@@ -26,7 +26,29 @@
 
 # Time
 
-<a href="https://github.com/MateusLem" target="_blank">
+<div style="display: flex; justify-content: space-between; align-items: center;">
+<a href="https://github.com/MateusLem" target="_blank" style="text-align: center; margin-right: 10px;">
 <img loading="lazy" src="https://avatars.githubusercontent.com/MateusLem" width=120>
-<p style="font-size:min(2vh, 36px);">Mateus da Costa Leme</p>
+<p style="font-size:min(2vh, 36px); margin-top: 10px;">Mateus da Costa Leme</p>
 </a>
+
+<a href="https://github.com/MateusLem" target="_blank" style="text-align: center; margin-right: 10px;">
+<img loading="lazy" src="https://avatars.githubusercontent.com/MateusLem" width=120>
+<p style="font-size:min(2vh, 36px); margin-top: 10px;">Mateus da Costa Leme</p>
+</a>
+
+<a href="https://github.com/MateusLem" target="_blank" style="text-align: center; margin-right: 10px;">
+<img loading="lazy" src="https://avatars.githubusercontent.com/MateusLem" width=120>
+<p style="font-size:min(2vh, 36px); margin-top: 10px;">Mateus da Costa Leme</p>
+</a>
+
+<a href="https://github.com/MateusLem" target="_blank" style="text-align: center; margin-right: 10px;">
+<img loading="lazy" src="https://avatars.githubusercontent.com/MateusLem" width=120>
+<p style="font-size:min(2vh, 36px); margin-top: 10px;">Mateus da Costa Leme</p>
+</a>
+
+<a href="https://github.com/MateusLem" target="_blank" style="text-align: center;">
+<img loading="lazy" src="https://avatars.githubusercontent.com/MateusLem" width=120>
+<p style="font-size:min(2vh, 36px); margin-top: 10px;">Mateus da Costa Leme</p>
+</a>
+</div>
